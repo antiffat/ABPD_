@@ -1,0 +1,14 @@
+/Users/antiffat/RiderProjects/ABPDDD/ContainerLoadingSystem/bin/Debug/net8.0/ContainerLoadingSystem
+/Users/antiffat/RiderProjects/ABPDDD/ContainerLoadingSystem/bin/Debug/net8.0/ContainerLoadingSystem.deps.json
+/Users/antiffat/RiderProjects/ABPDDD/ContainerLoadingSystem/bin/Debug/net8.0/ContainerLoadingSystem.runtimeconfig.json
+/Users/antiffat/RiderProjects/ABPDDD/ContainerLoadingSystem/bin/Debug/net8.0/ContainerLoadingSystem.dll
+/Users/antiffat/RiderProjects/ABPDDD/ContainerLoadingSystem/bin/Debug/net8.0/ContainerLoadingSystem.pdb
+/Users/antiffat/RiderProjects/ABPDDD/ContainerLoadingSystem/obj/Debug/net8.0/ContainerLoadingSystem.GeneratedMSBuildEditorConfig.editorconfig
+/Users/antiffat/RiderProjects/ABPDDD/ContainerLoadingSystem/obj/Debug/net8.0/ContainerLoadingSystem.AssemblyInfoInputs.cache
+/Users/antiffat/RiderProjects/ABPDDD/ContainerLoadingSystem/obj/Debug/net8.0/ContainerLoadingSystem.AssemblyInfo.cs
+/Users/antiffat/RiderProjects/ABPDDD/ContainerLoadingSystem/obj/Debug/net8.0/ContainerLoadingSystem.csproj.CoreCompileInputs.cache
+/Users/antiffat/RiderProjects/ABPDDD/ContainerLoadingSystem/obj/Debug/net8.0/ContainerLoadingSystem.dll
+/Users/antiffat/RiderProjects/ABPDDD/ContainerLoadingSystem/obj/Debug/net8.0/refint/ContainerLoadingSystem.dll
+/Users/antiffat/RiderProjects/ABPDDD/ContainerLoadingSystem/obj/Debug/net8.0/ContainerLoadingSystem.pdb
+/Users/antiffat/RiderProjects/ABPDDD/ContainerLoadingSystem/obj/Debug/net8.0/ContainerLoadingSystem.genruntimeconfig.cache
+/Users/antiffat/RiderProjects/ABPDDD/ContainerLoadingSystem/obj/Debug/net8.0/ref/ContainerLoadingSystem.dll
